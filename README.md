@@ -20,14 +20,14 @@ This repository contains the R code used for the analyses reported in our paper:
 - `4. dfar_negbias_scores_cases_controls.R`: Code for summary scores of DFAR and negativity bias in cases and controls per ethnic group.
 
 ### Sensitivity analyses 
-Scripts for running alternative models (i.e., using processing speed (WAIS-III measure) as a substitute for parental social class as a proxy for cognitive ability).
+Scripts for running alternative models (i.e., using processing speed (WAIS-III measure) as a proxy for access to socioeconomic resources as an additional covariate in Model 2 of each mediation analysis).
 
-- `1.1 sensitivity_analysis_multiple_imputation_missRanger_v3.R`
-- `3.1.1 sensitivity_analysis_WAIS_III_black.R`
-- `3.2.1 sensitivity_analysis_WAIS_III_mixed.R`
-- `3.3.1 sensitivity_analysis_WAIS_III_asian.R`
-- `3.4.1 sensitivity_analysis_WAIS_III_northafrican.R`
-- `3.5.1 sensitivity_analysis_WAIS_III_other.R`
+- `1.1 sensitivity_analysis_multiple_imputation_missRanger_v3.1.R`
+- `3.1.1 sensitivity_analysis_WAIS_III_black_v2.R`
+- `3.2.1 sensitivity_analysis_WAIS_III_mixed_v2.R`
+- `3.3.1 sensitivity_analysis_WAIS_III_asian_v2.R`
+- `3.4.1 sensitivity_analysis_WAIS_III_northafrican_v2.R`
+- `3.5.1 sensitivity_analysis_WAIS_III_other-v2.R`
 
 ## Requirements
 
