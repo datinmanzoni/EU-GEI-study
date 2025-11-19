@@ -27,7 +27,7 @@ Scripts for running alternative models (i.e., using processing speed (WAIS-III m
 - `3.2.1 sensitivity_analysis_WAIS_III_mixed_v2.R`
 - `3.3.1 sensitivity_analysis_WAIS_III_asian_v2.R`
 - `3.4.1 sensitivity_analysis_WAIS_III_northafrican_v2.R`
-- `3.5.1 sensitivity_analysis_WAIS_III_other-v2.R`
+- `3.5.1 sensitivity_analysis_WAIS_III_other_v2.R`
 
 ## Requirements
 
